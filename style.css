@@ -194,10 +194,6 @@ section {
 
   .head-img {
     position: relative;
-    margin-top: -400px;
-    z-index: -1;
-    width: 1px;
-    height: 1px;
   }
 
   .head-p {
